@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!-- 
+	XML Separates Data from Presentation
+	XML does not carry any information about how to be displayed.
+
+	The same XML data can be used in many different presentation scenarios.
+
+	Because of this, with XML, there is a full separation between data and presentation.
+
+
+
+	XML is Often a Complement to HTML
+	In many HTML applications, XML is used to store or transport data, while HTML is used to format and display the same data.
+-->
+
+<!--
+XML Separates Data from HTML
+When displaying data in HTML, you should not have to edit the HTML file when the data changes.
+
+With XML, the data can be stored in separate XML files.
+
+With a few lines of JavaScript code, you can read an XML file and update the data content of any HTML page.
+-->
+
+<uiulibrary>
+	<book category="Computer_Science">
+		<title lang="en">Sample Book Name</title>
+		<author>Writter name1</author>
+		<ISBN>SAMPLE ISBN</ISBN>
+		<publisher>Sample Publisher1</publisher>
+		<publish_date>01.01.2020</publish_date>
+	</book>
+	<book category="Computer_Engineering" cover="bluepaper">
+		<title lang="en">Sample Book Name</title>
+		<author>Writter name2</author>
+		<author>Writter name3</author>
+		<ISBN>SAMPLE ISBN</ISBN>
+		<publisher>Sample Publisher2</publisher>
+		<publish_date>01.01.2020</publish_date>
+	</book>
+	<book category="Computer_Science">
+		<title lang="en">Sample Book Name</title>
+		<author>Writter name 4</author>
+		<ISBN>SAMPLE ISBN</ISBN>
+		<publisher>Sample Publisher3</publisher>
+		<publish_date>01.01.2020</publish_date>
+	</book>
+</uiulibrary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
