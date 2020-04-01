@@ -1,7 +1,8 @@
 <!--
+	This code is practiced from W3schools :)
+	
+	
 	XML documents form a tree structure that starts at "the root" and branches to "the leaves".
-	
-	
 	check the image "nodetree from W3schools.gif" from images folder
 -->
 
@@ -38,5 +39,9 @@
 		<subchild>.....</subchild>
 	  </child>
 	</root>
+	
+	The terms parent, child, and sibling are used to describe the relationships between elements.
+	Parents have children. Children have parents. Siblings are children on the same level (brothers and sisters).
+	All elements can have text content (Harry Potter) and attributes (category="cooking").
 
 -->
