@@ -1,0 +1,21 @@
+<!--xml is designed to carry data 
+
+	XML stands for eXtensible Markup Language
+	XML is a markup language much like HTML
+	XML was designed to store and transport data
+	XML was designed to be self-descriptive
+	XML is a W3C Recommendation
+	XML does not DO anything. XML is just information wrapped in tags
+	With XML, the author must define both the tags and the document structure cause tags arent predefined
+-->
+
+
+<!--This note is a note to Tove from Jani, stored as XML-->
+<note>
+	<date>2015-09-01</date>
+	<hour>08:30</hour>
+	<to>John Cena</to>
+	<from>Juboraj Naofel</from>
+	<heading>Reminder</heading>
+	<body>Please don't forget to sing you theme song today!</body>
+</note>
