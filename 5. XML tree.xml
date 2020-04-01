@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	This code is practiced from W3schools :)
 	
@@ -6,7 +7,6 @@
 	check the image "nodetree from W3schools.gif" from images folder
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
   <book category="cooking">
     <title lang="en">Everyday Italian</title>

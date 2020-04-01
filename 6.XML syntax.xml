@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	1. xml must have a root element
+	2. prolog is optional but if it is used than should be at the first in the document.
+		XML documents can contain international characters, like Norwegian øæå or French êèé.
+		To avoid errors, you should specify the encoding used, or save your XML files as UTF-8.
+		UTF-8 is the default character encoding for XML documents.
+		
+		xml prolog example: <?xml version="1.0" encoding="UTF-8"?>
+	
+-->

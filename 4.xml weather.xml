@@ -1,9 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
 	Example: XML Weather Service
 	An XML national weather service from NOAA (National Oceanic and Atmospheric Administration):
 --->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <current_observation>
 	<credit>NOAA's National Weather Service</credit>
 	<credit_URL>http://weather.gov/</credit_URL>

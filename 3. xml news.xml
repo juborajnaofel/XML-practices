@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!--
 	Example: XML News
 	XMLNews is a specification for exchanging news and other information.
@@ -7,7 +9,6 @@
 	An example XMLNews document:
 --->
 
-<?xml version="1.0" encoding="UTF-8"?>
 <nitf>
   <head>
     <title>Colombia Earthquake</title>
