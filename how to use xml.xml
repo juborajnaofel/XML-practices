@@ -47,7 +47,26 @@ With a few lines of JavaScript code, you can read an XML file and update the dat
 	</book>
 </uiulibrary>
 
+<!--
+	Transaction Data
+	Thousands of XML formats exists, in many different industries, 
+	to describe day-to-day data transactions:
+	============================================================
+	Stocks and Shares
+	-------------------------
+	Financial transactions
+	-------------------------
+	Medical data
+	-------------------------
+	Mathematical data
+	-------------------------
+	Scientific measurements
+	-------------------------
+	News information
+	-------------------------
+	Weather services
 
+-->
 
 
 
